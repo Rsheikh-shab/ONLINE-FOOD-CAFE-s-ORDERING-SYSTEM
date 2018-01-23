@@ -1,0 +1,34 @@
+
+			Customer Reciept
+
+			24/7 FOOD CAFE's
+			Lot No-241 , Level-2
+			Suria KLCC,50088,
+			Kuala Lumpur.
+
+							Reciept NO: #26588
+
+							Date: 24/1/2018
+
+							Time: 2:24:21
+
+-------------------------------------------------------------------------
+
+Your Name : Raju
+
+Your Contact Number : (+6)0163759690
+Your Address That You Wish To Deliver : IIUM,Gombak
+
+-------------------------------------------------------------------------
+
+> You Have Selected Items :5
+> The Total Price (Without GST) : RM 9.45
+
+> GST Analysis : RM 0.57
+
+> After Including 6% GST, Total Price : RM 10.02
+
+________________________________________________________________________
+		THANK YOU FOR USING OUR SYSTEM             
+		YOUR ORDER WILL BE DELIVERED SOON          
+			HAVE A NICE DAY!   
